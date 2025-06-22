@@ -75,7 +75,7 @@ This project builds a robust machine learning model to predict house prices usin
   - `OverallQual`, `GrLivArea`, `TotalBsmtSF`, `Neighborhood`
   - Pool quality, kitchen quality, and condition
 
-![SHAP Summary Plot](.png)
+![SHAP Summary Plot](https://github.com/PawarPraveen/Advance_House_Price_prediction/blob/main/Screenshot%202025-06-22%20095815.png)
 
 ---
 
